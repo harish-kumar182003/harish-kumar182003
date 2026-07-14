@@ -959,7 +959,6 @@ Mission:
 
 </p>
 
-> **Note:** To make the snake animation work, you'll need to add a GitHub Action later. I can help you set it up.
 
 ---
 
